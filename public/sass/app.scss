@@ -1,0 +1,41 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+@import '~@fortawesome/fontawesome-free/scss/fontawesome';
+@import '~@fortawesome/fontawesome-free/scss/regular';
+@import '~@fortawesome/fontawesome-free/scss/solid';
+@import '~@fortawesome/fontawesome-free/scss/brands';
+
+.button-wrapper {
+    margin-top: 50px;
+}
+
+.main-button {
+    margin: 15px;
+    align-self: center;
+    white-space: normal;
+    height: 150px;
+}
+
+.text-links {
+    font-size: xx-large;
+    max-width: 700px;
+    white-space: normal;
+    height: 100%;
+    padding-top: 30px;
+    min-width: 295px;
+}
+
+.cat {
+    background: #FCF460;
+}
+
+.side-menu {
+    min-height: 80px;
+}
+
+.menu-background {
+    background: #FF9D45;
+    color: white;
+}
+
+
